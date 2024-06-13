@@ -36,6 +36,8 @@ When I'm not developing and building things, you can find me on Youtube learning
 <a href="https://stackoverflow.com/users/aman2457" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/stackoverflow-color-icon.svg" alt="aman2457" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/amamverma2457" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" alt="amamverma2457" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/amanverma2457" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" alt="amanverma2457" height="30" width="40" /></a>
+  <a href="https://medium.com/aws-tip/strategies-to-handle-errors-while-using-lambda-with-kinesis-29eb88080d98" target="blank"><img align="center" src="![image](https://github.com/aman2457/aman2457/assets/54279054/dac7a9f1-05d3-4bc7-9ef6-a379c95cd4fe)
+" alt="Medium" height="30" width="40" /></a>
 </p>
 
 
